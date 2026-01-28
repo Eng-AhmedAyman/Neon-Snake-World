@@ -1,5 +1,5 @@
 # 🌍🐍 Neon Snake World: Engineered for Performance
-
+![Gameplay Demo](gameplay.gif)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Pygame](https://img.shields.io/badge/Library-Pygame_CE-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)

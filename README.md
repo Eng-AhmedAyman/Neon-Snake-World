@@ -100,10 +100,24 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Ahmed Ayman** - AI & Data Science Engineer\
+**Ahmed Ayman**  
+AI & Data Science Engineer
+
+🔗 GitHub: [https://github.com/Eng-AhmedAyman]  
+🔗 LinkedIn: [www.linkedin.com/in/ahmed-ayman-10b966292]
 Passionate about bridging the gap between efficient algorithms and
 interactive visual experiences.
 
 Enjoy the Neon World! 🕹️
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use and modify it.
+
+---
+
+⭐ If you like this project, don't forget to give it a star on GitHub!
+
